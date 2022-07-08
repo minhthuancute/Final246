@@ -1,0 +1,18 @@
+.filters {
+  margin: 100px;
+}
+
+.filters li {
+  cursor: pointer;
+  font-size: 20px;
+  list-style: none;
+}
+
+.filters li.active {
+  color: yellow;
+}
+
+.filters li:hover {
+  color: yellow;
+}
+/*# sourceMappingURL=style.css.map */
